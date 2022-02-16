@@ -52,7 +52,6 @@ A curation of projects and resources involving running Kubernetes at home. ⛵
 | [timtorchen/pi-cluster](https://github.com/timtorchen/pi-cluster)             | Helmfile managed k3s cluster, with sops securing secrets        |
 | [toboshii/home-cluster](https://github.com/toboshii/home-cluster)             | Flux2/GitOps managed k3s cluster deployed on Proxmox using Terraform and Ansible.        |
 | [todaywasawesome/atomic-cluster](https://github.com/todaywasawesome/atomic-cluster)             | 5-node home lab x86/arm built on Atomic Pis for under $250.        |
-| [Truxnell/home-cluster](https://github.com/Truxnell/home-cluster)       | Sidero/Talos cluster defined with GitOps/Flux.  Utilizing SOPS & Renovate.  Raspi4 8GB Master + 3 Intel NUC Workers |
 | [vaskozl/home-infra](https://github.com/vaskozl/home-infra)             | Flux2 Raspberry Pi cluster running crème de la crème FOSS        |
 | [WRMilling/k3s-gitops](https://github.com/WRMilling/k3s-gitops)             | Flux2/GitOps managed k3s cluster running on mixed-architecture hardware (AMD64 + ARM64) as defined in [WRMilling/homelab-infrastructure](https://github.com/WRMilling/homelab-infrastructure)        |
 | [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops)             | Home Kubernetes cluster managed by GitOps on Raspberry Pis with Ansible at [kubeflare/k8s-cluster-installation](https://github.com/raspbernetes/k8s-cluster-installation)        |
